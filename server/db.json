@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "aswani",
+      "email": "asanvi",
+      "id": "a3b515a5-6b65-44ab-b85d-172a146fa0c2"
+    },
+    {
+      "id": "f7393e06-3207-45e2-93da-459bf3ba133c",
+      "redirect": true,
+      "name": "ajitha",
+      "email": "balan"
+    },
+    {
+      "id": "042cf0e7-54b3-4218-928a-f853b72eb311",
+      "redirect": true,
+      "name": "ramu",
+      "email": "nair"
+    },
+    {
+      "id": "f233759c-5811-42cc-a63a-72e714cb85bf",
+      "redirect": true,
+      "name": "g",
+      "email": "g"
+    }
+  ]
+}
